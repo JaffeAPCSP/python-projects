@@ -27,3 +27,7 @@ Useful built-in Python functions
 * `int(string)`:  Converts a string number to an integer.  `int("42")` returns 42
 
 * `str(number)`: Converts a number to a string.  `str(42)` returns "42"
+
+### What does `checkArguments` do?
+
+This is a little function that checks to make sure you are calling your programs with the correct number of parameters.
