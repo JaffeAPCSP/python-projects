@@ -20,6 +20,8 @@ Check your code by:
 * Once in the right folder enter `iPython`
 * Run your code with `run <file-name> <sample-input1> <sample-input2> ...` and compare your output with the instructions.
 
+IMPORTANT NOTE: For the Count Frequency challenge you MAY NOT use the mode function from the statistics library.  statistics.mode does not support multiple modes so it will fail on some of the tests!!
+
 ### If you want to do this correctly you should write an algorithm or flowchart first!!
 
 Useful built-in Python functions
